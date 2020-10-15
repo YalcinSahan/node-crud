@@ -1,2 +1,2 @@
 # node-crud
-Node.js, MongoDB ve Express.js kullanarak geliştirilen ve CRUD işlemleri yapabilen proje.
+Node.js, MongoDB ve Express.js kullanarak GET, CREATE, UPDATE ve DELETE işlemlerini yapabilen bir REST API geliştirdim. 
